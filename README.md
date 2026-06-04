@@ -8,23 +8,21 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 [![My Skills](https://skillicons.dev/icons?i=netlify)](https://yassineabassi.com)
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://yassineabassi.com-ssh)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yassine_abasssi)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yassine-abassi-b9ba721a6/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:yassine020528@gmail.com)
 </div>
-
-<div align="center">
-<sub>→ Try the SSH portfolio: <code>ssh ssh.yassineabassi.com</code></sub>
-</div>
-
 ---
 
 ### About
 
-Computer Engineering student at Polytechnique Montréal (graduating May 2026), with a focus on full-stack systems, robotics, and developer tooling. I like building things that feel complete — from the hardware layer up to the interface.
+Computer Engineering graduate from Polytechnique Montréal, with a focus on full-stack systems, robotics, and developer tooling. I like building things that feel complete, from the hardware layer up to the interface.
 
-Currently open to **new grad / internship roles** in software engineering. Authorized to work in 🇨🇦 Canada and 🇺🇸 the US.
+Currently open to **new grad / internship roles** in software/computer engineering. Authorized to work in 🇨🇦 Canada and 🇺🇸 the US.
 
+---
+![Visitor Count](https://profile-counter.glitch.me/yassine020528/count.svg)
 ---
 
 ### Stack
