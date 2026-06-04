@@ -18,6 +18,7 @@
 [![Resume](https://img.shields.io/badge/RESUME-View%20%2F%20Download-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://yassineabassi.com/yassine_abassi.pdf)
 
 </div>
+
 ---
 
 # About
