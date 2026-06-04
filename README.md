@@ -20,7 +20,7 @@
 </div>
 ---
 
-### About
+# About
 
 Computer Engineering graduate from Polytechnique Montréal, with a focus on full-stack systems, robotics, and developer tooling. I like building things that feel complete, from the hardware layer up to the interface.
 
@@ -30,63 +30,51 @@ Currently open to **new grad / internship roles** in software/computer engineeri
 
 ---
 
-### Stack
+# Stack
 
-#### Programming Languages :
+### Programming Languages :
 <p>
     <img width="500" src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,go,kotlin,swift" />
 </p>
 
-#### Web Frameworks :
+### Web Frameworks :
 <p>
     <img width="500" src="https://skillicons.dev/icons?i=angular,react,nodejs,nest,express,dotnet,threejs,p5js,fastapi," />
 </p>
 
-#### Data & APIs :
+### Data & APIs :
 <p>
     <img width="500" src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,mysql,firebase,rxjs,redis,supabase,," />
 </p>
 
-#### DevOps & Tools :
+### DevOps & Tools :
 <p>
     <img width="500" src="https://skillicons.dev/icons?i=git,githubactions,gitlab,docker,qt,cypress,gherkin,figma,,"   
     />
 </p>
 
-#### Robots & Boards :
+### Robots & Boards :
 #### Zynq7000 | ATmega164A | Pynq-Z1 | Basys3 Artix-7 | AgileX Limo
 
 ---
 
-### Experience
+# Experience
 
-<table width="100%">
-<tr>
-<td>
-<img src="assets\uptotest_logo.svg" height="50" alt="UPTOTEST">
-</td>
-<td align="right"><em>May – Sep 2024</em></td>
-</tr>
-<td><strong>Software QA Automation Intern</strong></td>
-</table>
 
-• Designed and automated end-to-end functional test suites for the KOORS web app using Cypress with Cucumber/Gherkin in a BDD workflow.
+[<img src="assets\uptotest_logo.svg" height="30" alt="TUTORING">](https://uptotest.com)
+**Software QA Automation Intern**
+&nbsp; `May 2024 – Sep 2024`
 
-• Translated product requirements into testable user stories and acceptance criteria, managed defects and traceability in Jira across sprints.
+- Designed and automated end-to-end functional test suites for the KOORS web app using Cypress with Cucumber/Gherkin in a BDD workflow.
+- Translated product requirements into testable user stories and acceptance criteria; managed defects and traceability in Jira across sprints.
+- Participated in Agile Scrum ceremonies to align QA priorities with development milestones.
 
-• Participated in Agile Scrum ceremonies to align QA priorities with development milestones and release timelines
+---
 
-<table width="100%">
-<tr>
-<td>
-<img src="assets\tutoring_logo.svg" height="50" alt="TUTORING">
-</td>
-<td align="right"><em>Aug 2021 – Present</em></td>
-</tr>
-<td><strong>Private Tutor</strong></td>
-</table>
+**Private Tutor** 
+&nbsp; `Aug 2021 – Present`
 
-• Tutoring Mathematics, Physics, and Programming for college and university students.
+Mathematics, Physics, and Programming for college and university students.
 
 ---
 
