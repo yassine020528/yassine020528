@@ -19,10 +19,8 @@
 
 Computer Engineering graduate from Polytechnique Montréal, with a focus on full-stack systems, robotics, and developer tooling. I like building things that feel complete, from the hardware layer up to the interface.
 
-Currently open to **new grad / internship roles** in software/computer engineering. Authorized to work in 🇨🇦 Canada and 🇺🇸 the US.
-
----
-![](https://komarev.com/ghpvc/?username=yassine020528&color=blue&style=flat-square&label=Visiteurs)
+Currently open to **new grad / internship roles** in software/computer engineering. Authorized to work in <span class="fi fi-ca"></span> Canada and <span class="fi fi-us"></span> the US.
+![](https://komarev.com/ghpvc/?username=yassine020528&color=blue&style=flat-square&label=Visitors)
 ---
 
 ### Stack
