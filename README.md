@@ -2,16 +2,19 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║              YASSINE ABASSI                          ║
-║              Software & Systems Engineer             ║
-║              Montreal · Polytechnique 2026           ║
+║                   YASSINE ABASSI                     ║
+║            Computer Engineering graduate             ║
+║            Montreal · Polytechnique 2026             ║
 ╚══════════════════════════════════════════════════════╝
 ```
+[![My Skills](https://raw.githubusercontent.com/yassine020528/yassine020528/main/portfolio.svg)](https://yassineabassi.com)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yassine_abasssi)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yassine-abassi-b9ba721a6/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:yassine020528@gmail.com)
+</div>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-yassineabassi.com-0f0f0f?style=flat-square&logo=vercel&logoColor=white)](https://yassineabassi.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-yassine--abassi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-abassi)
-[![Email](https://img.shields.io/badge/email-yassine020528@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yassine020528@gmail.com)
-
+<div align="center">
+<sub>→ Try the SSH portfolio: <code>ssh ssh.yassineabassi.com</code></sub>
 </div>
 
 ---
@@ -63,6 +66,3 @@ English · French · Arabic — fluent &nbsp;|&nbsp; German — intermediate
 
 ---
 
-<div align="center">
-<sub>→ Try the SSH portfolio: <code>ssh ssh.yassineabassi.com</code></sub>
-</div>
