@@ -79,12 +79,12 @@ Mathematics, Physics, and Programming for college and university students.
 
 ---
 
-### Languages
+# Languages
 
 English · French · Arabic — fluent &nbsp;|&nbsp; German — intermediate
 
 ---
 
-### Selected Projects 
+# Selected Projects 
 **Pinned below**
 
