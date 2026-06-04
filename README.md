@@ -7,7 +7,7 @@
 ║            Montreal · Polytechnique 2026             ║
 ╚══════════════════════════════════════════════════════╝
 ```
-[![My Skills](https://raw.githubusercontent.com/yassine020528/yassine020528/main/world-www.svg)](https://yassineabassi.com)
+[![My Skills](https://skillicons.dev/icons?i=netlify)](https://yassineabassi.com)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yassine_abasssi)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yassine-abassi-b9ba721a6/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:yassine020528@gmail.com)
