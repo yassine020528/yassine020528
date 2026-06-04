@@ -22,7 +22,7 @@ Computer Engineering graduate from Polytechnique Montréal, with a focus on full
 Currently open to **new grad / internship roles** in software/computer engineering. Authorized to work in 🇨🇦 Canada and 🇺🇸 the US.
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/yassine020528/count.svg)
+![](https://komarev.com/ghpvc/?username=yassine020528&color=blue&style=flat-square&label=Visiteurs)
 ---
 
 ### Stack
