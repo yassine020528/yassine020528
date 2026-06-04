@@ -85,4 +85,5 @@ English · French · Arabic — fluent &nbsp;|&nbsp; German — intermediate
 ---
 
 ### Selected Projects 
+**Pinned below**
 
