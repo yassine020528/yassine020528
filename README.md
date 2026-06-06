@@ -66,9 +66,12 @@ Currently open to **new grad / internship roles** in software/computer engineeri
 **Software QA Automation Intern**
 &nbsp; `May 2024 – Sep 2024`
 
-- Designed and automated end-to-end functional test suites for the KOORS web app using Cypress with Cucumber/Gherkin in a BDD workflow.
-- Translated product requirements into testable user stories and acceptance criteria; managed defects and traceability in Jira across sprints.
-- Participated in Agile Scrum ceremonies to align QA priorities with development milestones.
+- Architected a Cypress/Cucumber BDD test framework using the Page Object Model, implementing 400+ end-to-end scenarios
+across core user journeys; integrated the suite into GitLab CI for automated regression, achieving 89% feature coverage.
+- Executed cross-browser test runs against a dedicated pre-production environment and configured Mochawesome HTML
+reports delivered to stakeholders every sprint, providing full run visibility and enabling data-driven release decisions.
+- Collaborated within an Agile Scrum team to align QA priorities with release milestones and progressively shift testing earlier
+in the development cycle.
 
 ---
 
