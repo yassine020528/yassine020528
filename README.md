@@ -74,11 +74,11 @@ reports delivered to stakeholders every sprint, providing full run visibility an
 in the development cycle.
 
 ---
-
+[<img src="assets\tutoring_logo.svg" height="30" alt="TUTORING">](https://github.com/yassine020528/yassine020528/blob/main/assets/tutoring_logo.svg)
 **Private Tutor** 
 &nbsp; `Aug 2021 – Present`
 
-Mathematics, Physics, and Programming for college and university students.
+- Provided in-person tutoring in Mathematics, Physics, and Programming to 20+ college and university students, consistently helping students achieve noticeable grade improvements through tailored explanations and structured problem-solving sessions.
 
 ---
 
