@@ -61,24 +61,29 @@ Currently open to **new grad / internship roles** in software/computer engineeri
 
 # Experience
 
+[<img src="assets\hq_logo.svg" height="30" alt="HYDRO-QUÉBEC">](https://www.hydroquebec.com)
+**Software Developer — Capstone Project**
+&nbsp; `Jan 2026 – May 2026`
+
+- Built a full-stack weather visualization platform using Angular and ASP.NET Core, featuring multi-model weather display with interactive geospatial mapping via Leaflet and real-time updates via SignalR.
+- Implemented GDAL raster processing for cartographic rendering; designed RESTful APIs backed by an SQLite database via EF Core, containerized the application with Docker, and set up a CI/CD pipeline for automated testing and deployment.
+
+---
 
 [<img src="assets\uptotest_logo.svg" height="30" alt="TUTORING">](https://uptotest.com)
 **Software QA Automation Intern**
 &nbsp; `May 2024 – Sep 2024`
 
-- Architected a Cypress/Cucumber BDD test framework using the Page Object Model, implementing 400+ end-to-end scenarios
-across core user journeys; integrated the suite into GitLab CI for automated regression, achieving 89% feature coverage.
-- Executed cross-browser test runs against a dedicated pre-production environment and configured Mochawesome HTML
-reports delivered to stakeholders every sprint, providing full run visibility and enabling data-driven release decisions.
-- Collaborated within an Agile Scrum team to align QA priorities with release milestones and progressively shift testing earlier
-in the development cycle.
+- Architected a Cypress/Cucumber BDD test framework using a POM design pattern, implementing 400+ end-to-end scenarios; integrated the suite into GitLab CI for automated regression, achieving 89% feature coverage.
+- Executed cross-browser test runs against a dedicated pre-production environment and configured Mochawesome HTML reports delivered alongside an Agile Scrum team every sprint providing full run visibility.
 
 ---
 [<img src="assets\tutoring_logo.svg" height="30" alt="TUTORING">](https://github.com/yassine020528/yassine020528/blob/main/assets/tutoring_logo.svg)
 **Private Tutor** 
 &nbsp; `Aug 2021 – Present`
 
-- Provided in-person tutoring in Mathematics, Physics, and Programming to 20+ college and university students, consistently helping students achieve noticeable grade improvements through tailored explanations and structured problem-solving sessions.
+- Provided in-person tutoring in Mathematics, Physics, and Programming to 20+ college and university students, through personalized explanations, structured exercises, and exam-focused problem solving.
+
 
 ---
 
