@@ -61,6 +61,16 @@ Currently open to **new grad / internship roles** in software/computer engineeri
 
 # Experience
 
+[<img src="assets\fiu.svg" height="30" alt="FIU">](https://cts.fiu.edu)
+****
+&nbsp; `May 2026 – July 2026`
+
+-  Built a Python/RDKit cheminformatics tool to automate combinatorial molecule enumeration from Excel data, converting
+chemical names to SMILES, assembling branch combinations onto a molecular scaffold, applying stereochemistry rules, and
+exporting a validated library of 10,000+ compounds for research use.
+
+---
+
 [<img src="assets\hq_logo.svg" height="30" alt="HYDRO-QUÉBEC">](https://www.hydroquebec.com)
 **Software Developer — Capstone Project**
 &nbsp; `Jan 2026 – May 2026`
