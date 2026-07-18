@@ -61,7 +61,7 @@ Currently open to **new grad / internship roles** in software/computer engineeri
 
 # Experience
 
-[<img src="assets\fiu.svg" height="30" alt="FIU">](https://cts.fiu.edu)
+[<img src="assets\fiu_logo.svg" height="30" alt="FIU">](https://cts.fiu.edu)
 ****
 &nbsp; `May 2026 – July 2026`
 
