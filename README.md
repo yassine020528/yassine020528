@@ -61,8 +61,9 @@ Currently open to **new grad / internship roles** in software/computer engineeri
 
 # Experience
 
+# Experience
 [<img src="assets\fiu_logo.svg" height="30" alt="FIU">](https://cts.fiu.edu)
-****
+**Research Software Intern**
 &nbsp; `May 2026 – July 2026`
 
 -  Built a Python/RDKit cheminformatics tool to automate combinatorial molecule enumeration from Excel data, converting
